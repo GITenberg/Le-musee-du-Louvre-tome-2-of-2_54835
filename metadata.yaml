@@ -1,11 +1,16 @@
 _repo: Le-musee-du-Louvre-tome-2-of-2_54835
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54835-h/images/cover.jpg
 creator:
   author:
     agent_name: Dayot, Armand
     gutenberg_agent_id: '46201'
     url: http://www.gutenberg.org/2009/agents/46201
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54835#Le-musee-du-Louvre-tome-2-of-2
 gutenberg_bookshelf:
 - FR Beaux-Arts
 - FR Peinture
